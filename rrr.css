@@ -1,0 +1,114 @@
+header h1 {
+    font-size: 520%;
+    font-family: Helvetica, sans-serif;
+    color: white;
+    padding-top: 500px;
+}
+
+header {
+    background-image: url(https://static.tildacdn.com/tild6132-6365-4065-b230-363063313332/photo_51997900839291.jpg);
+    height: 1000px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h4 {
+    font-size: 100%;
+    color: #5d4037;
+    font-family: Optima, sans-serif;
+    padding-top: 100px;
+}
+
+h3 {
+    font-size: 250%;
+    color: #5d4037;
+    font-family: Optima,sans-serif;
+    padding-top: 100px;
+}
+
+h2 {
+    font-size: 200%;
+    color: #5d4037;
+    font-family: Optima, sans-serif;
+    padding-top: 10px;
+}
+
+h1 {
+    font-size: 210%;
+    color: #5d4037;
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+    padding-top: 100px;
+}
+
+table {
+    padding-top: 50px;
+}
+
+ol {
+    padding-left: 680px;
+    padding-bottom: 200px;
+}
+
+    ol p {
+        font-size: 120%;
+        font-family: monospace;
+        padding-right: 500px;
+    }
+
+footer {
+    padding: 30px 20px;
+    background-color: #6b5149;
+    padding-bottom: 80px;
+}
+
+.footer-heading {
+    font-size: 150%;
+    padding-top: 54px;
+    color: #d7ccc8;
+    font-family: Noto Sans, sans-serif;
+}
+
+.footer-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 40px;
+}
+
+.footer-section {
+    flex: 1;
+    min-width: 250px;
+}
+
+.footer-heading {
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+}
+
+footer h4 {
+    font-size: 90%;
+    padding-top: 1px;
+    color: #d7ccc8;
+    font-family: Noto Sans, sans-serif
+}
+
+.buy-button {
+    background-color: #66CDAA;
+    border: none;
+    color: white;
+    padding: 60px 128px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 64px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+}
+
+    .buy-button:hover {
+        background-color: #20B2AA;
+    }
